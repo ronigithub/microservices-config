@@ -1,2 +1,2 @@
 # microservices-config
-All configuration files of microservices handled in this repository
+Central respository configurations for bank microservice
